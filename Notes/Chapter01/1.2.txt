@@ -1,0 +1,15 @@
+||- Insertion sort running time as c1n*n (runs faster than merge sort for small input size->N),
+
+While Merge sort running time as c2n*lgn (much smaller).
+
+
+||- Exercises:
+
+(1.2-2) ans: For n=1 -> merge sort beats insertion sort, but greater than that,
+
+insertion sort will start to beat merge sort.
+
+
+(1.2-3) ans: When n=15, explanation -> 100*(15)^2 = 22.500
+
+While 2^(15) = 32.768.

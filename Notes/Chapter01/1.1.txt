@@ -1,0 +1,11 @@
+Algorithms is computational procedure that takes some input, or a set of values as an input and produces
+some values or set of values as output.
+
+
+-|| Subsequence of X -> is Just X with some (or possibly all or none) of it's elements removed. 
+EX: X={A, B, C, D, E, F, G}  Would be  X={B, C, E, G}
+
+* If X has M symbols and Y has N sympols, then X and Y have (2^M) and (2^N) possible subsequences.
+
+
+-|| The factorial function grows faster than even an exponential function.
